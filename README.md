@@ -1,2 +1,2 @@
-# Restaurant-website
+# Restaurant website
 This is my first Static website
